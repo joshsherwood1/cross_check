@@ -1,2 +1,3 @@
-require 'simplecove'
-Simplecove.start
+require 'simplecov'
+SimpleCov.start
+
