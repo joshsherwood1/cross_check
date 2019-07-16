@@ -1,0 +1,2 @@
+require 'simplecove'
+Simplecove.start
